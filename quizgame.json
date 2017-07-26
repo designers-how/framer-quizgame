@@ -1,0 +1,25 @@
+{
+  "topic": "Astrophysics",
+  "questions": [
+    {
+      "question": "Of which of the elements below is the sun mainly composed?",
+      "choices": ["Helium", "Hydrogen", "Nitrogen", "Oxygen"],
+      "answer": 0
+    },
+    {
+      "question": "A light-year is a unit of what?",
+      "choices": ["Time", "Weight", "Age", "Distance"],
+      "answer": 3
+    },
+    {
+      "question": "Most stars, when charted by color and brightness, fall into a band known as the",
+      "choices": ["Zenith Pattern", "Van Nuys Region", "Main Sequence", "Standard Belt"],
+      "answer": 2
+    },
+    {
+      "question": "The Kepler space telescope has found more of what than any other telescope?",
+      "choices": ["Asteroids", "Black Holes", "Exoplanets", "Quasars"],
+      "answer": 2
+    }
+  ]
+}
